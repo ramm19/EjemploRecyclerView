@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjemploRecyclerView</string>
+    <string name="prueba_de_titulo">Prueba de titulo</string>
+    <string name="fechaPrueba">01/01/2019</string>
+    <string name="Status">Pendiente de recibir</string>
+</resources>
